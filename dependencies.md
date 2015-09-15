@@ -1,9 +1,9 @@
 # Google Apps Script Project: sjclEncryption
-This repo (sjclEncryption) was automatically updated on 13 February 2015 21:20:17 GMT by GasGit
+This repo (sjclEncryption) was automatically updated on 15 September 2015 11:48:53 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project sjclEncryption
-Where possibile directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
+Where possible directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
 The shared link for [sjclEncryption is here](https://script.google.com/d/19dEhJYSTE3oqvvjtbrVQAxGd9PPAtSP4Uv_KvBHE7qeug4vu2BSOAJEN/edit?usp=sharing "open in the GAS IDE")
 
 ### Modules of sjclEncryption.gs included in this repo
@@ -17,6 +17,8 @@ no libraries discovered
 ### All dependencies and sub dependencies
 no libraries discovered
 ### Enabled Google Services
-no libraries discovered
+*library*|*identifier*|*version*
+--- | --- | --- 
+Drive API| Drive|v2
 ###Need more detail ?
 You can see [full project info as json here](info.json)
