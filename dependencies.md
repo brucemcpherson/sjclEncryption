@@ -1,5 +1,5 @@
 # Google Apps Script Project: sjclEncryption
-This repo (sjclEncryption) was automatically updated on 28 September 2015 17:43:56 BST by GasGit
+This repo (sjclEncryption) was automatically updated on 27 July 2016 10:34:49 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project sjclEncryption
